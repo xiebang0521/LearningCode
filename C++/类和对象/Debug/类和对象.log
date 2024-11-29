@@ -1,0 +1,6 @@
+﻿  02 封装案例.cpp
+  03 封装的访问权限.cpp
+  04 struct 和class区别.cpp
+E:\LearningCode\C++\类和对象\04 struct 和class区别.cpp(19,5): warning C4101: “c1”: 未引用的局部变量
+  正在生成代码...
+  类和对象.vcxproj -> E:\LearningCode\C++\类和对象\Debug\类和对象.exe
