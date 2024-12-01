@@ -143,6 +143,15 @@
     <ClCompile Include="02 封装案例.cpp" />
     <ClCompile Include="03 封装的访问权限.cpp" />
     <ClCompile Include="04 struct 和class区别.cpp" />
+    <ClCompile Include="06 封装案例-立方体.cpp" />
+    <ClCompile Include="07 封装案例二-点和圆的关系.cpp" />
+    <ClCompile Include="08 对象的初始化和清理.cpp" />
+    <ClCompile Include="Circle.cpp" />
+    <ClCompile Include="Point.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Circle.h" />
+    <ClInclude Include="Point.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
