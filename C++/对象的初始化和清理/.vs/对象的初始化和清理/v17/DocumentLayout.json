@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1B6D58E-D141-44DB-AA1E-82E272C9DA2E}|\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\09 \u9759\u6001\u6210\u5458-\u9759\u6001\u6210\u5458\u51FD\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C1B6D58E-D141-44DB-AA1E-82E272C9DA2E}|\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406.vcxproj|solutionrelative:09 \u9759\u6001\u6210\u5458-\u9759\u6001\u6210\u5458\u51FD\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1B6D58E-D141-44DB-AA1E-82E272C9DA2E}|\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\08 \u9759\u6001\u6210\u5458-\u9759\u6001\u6210\u5458\u53D8\u91CF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C1B6D58E-D141-44DB-AA1E-82E272C9DA2E}|\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406.vcxproj|solutionrelative:08 \u9759\u6001\u6210\u5458-\u9759\u6001\u6210\u5458\u53D8\u91CF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1B6D58E-D141-44DB-AA1E-82E272C9DA2E}|\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\07 \u7C7B\u5BF9\u8C61\u4F5C\u4E3A\u7C7B\u6210\u5458.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C1B6D58E-D141-44DB-AA1E-82E272C9DA2E}|\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406.vcxproj|solutionrelative:07 \u7C7B\u5BF9\u8C61\u4F5C\u4E3A\u7C7B\u6210\u5458.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1B6D58E-D141-44DB-AA1E-82E272C9DA2E}|\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\06 \u521D\u59CB\u5316\u5217\u8868.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C1B6D58E-D141-44DB-AA1E-82E272C9DA2E}|\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406.vcxproj|solutionrelative:06 \u521D\u59CB\u5316\u5217\u8868.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1B6D58E-D141-44DB-AA1E-82E272C9DA2E}|\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\05 \u6DF1\u62F7\u8D1D\u4E0E\u6D45\u62F7\u8D1D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C1B6D58E-D141-44DB-AA1E-82E272C9DA2E}|\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406.vcxproj|solutionrelative:05 \u6DF1\u62F7\u8D1D\u4E0E\u6D45\u62F7\u8D1D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1B6D58E-D141-44DB-AA1E-82E272C9DA2E}|\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\04 \u6784\u9020\u51FD\u6570\u7684\u8C03\u7528\u89C4\u5219.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C1B6D58E-D141-44DB-AA1E-82E272C9DA2E}|\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406.vcxproj|solutionrelative:04 \u6784\u9020\u51FD\u6570\u7684\u8C03\u7528\u89C4\u5219.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1B6D58E-D141-44DB-AA1E-82E272C9DA2E}|\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\02 \u6784\u9020\u51FD\u6570\u7684\u5206\u7C7B\u4EE5\u53CA\u8C03\u7528.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C1B6D58E-D141-44DB-AA1E-82E272C9DA2E}|\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406.vcxproj|solutionrelative:02 \u6784\u9020\u51FD\u6570\u7684\u5206\u7C7B\u4EE5\u53CA\u8C03\u7528.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1B6D58E-D141-44DB-AA1E-82E272C9DA2E}|\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\03 \u62F7\u8D1D\u6784\u9020\u51FD\u6570\u8C03\u7528\u65F6\u673A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C1B6D58E-D141-44DB-AA1E-82E272C9DA2E}|\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406.vcxproj|solutionrelative:03 \u62F7\u8D1D\u6784\u9020\u51FD\u6570\u8C03\u7528\u65F6\u673A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "09 \u9759\u6001\u6210\u5458-\u9759\u6001\u6210\u5458\u51FD\u6570.cpp",
-              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\09 \u9759\u6001\u6210\u5458-\u9759\u6001\u6210\u5458\u51FD\u6570.cpp",
-              "RelativeDocumentMoniker": "09 \u9759\u6001\u6210\u5458-\u9759\u6001\u6210\u5458\u51FD\u6570.cpp",
-              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\09 \u9759\u6001\u6210\u5458-\u9759\u6001\u6210\u5458\u51FD\u6570.cpp",
-              "RelativeToolTip": "09 \u9759\u6001\u6210\u5458-\u9759\u6001\u6210\u5458\u51FD\u6570.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-01T08:36:36.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "08 \u9759\u6001\u6210\u5458-\u9759\u6001\u6210\u5458\u53D8\u91CF.cpp",
-              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\08 \u9759\u6001\u6210\u5458-\u9759\u6001\u6210\u5458\u53D8\u91CF.cpp",
-              "RelativeDocumentMoniker": "08 \u9759\u6001\u6210\u5458-\u9759\u6001\u6210\u5458\u53D8\u91CF.cpp",
-              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\08 \u9759\u6001\u6210\u5458-\u9759\u6001\u6210\u5458\u53D8\u91CF.cpp",
-              "RelativeToolTip": "08 \u9759\u6001\u6210\u5458-\u9759\u6001\u6210\u5458\u53D8\u91CF.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDgAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-01T08:08:12.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "07 \u7C7B\u5BF9\u8C61\u4F5C\u4E3A\u7C7B\u6210\u5458.cpp",
               "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\07 \u7C7B\u5BF9\u8C61\u4F5C\u4E3A\u7C7B\u6210\u5458.cpp",
               "RelativeDocumentMoniker": "07 \u7C7B\u5BF9\u8C61\u4F5C\u4E3A\u7C7B\u6210\u5458.cpp",
               "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\07 \u7C7B\u5BF9\u8C61\u4F5C\u4E3A\u7C7B\u6210\u5458.cpp",
               "RelativeToolTip": "07 \u7C7B\u5BF9\u8C61\u4F5C\u4E3A\u7C7B\u6210\u5458.cpp",
-              "ViewState": "AgIAABkAAAAAAAAAAAAYwDMAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAA7wCUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-01T07:56:30.227Z",
+              "WhenOpened": "2024-12-05T12:22:56.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "06 \u521D\u59CB\u5316\u5217\u8868.cpp",
-              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\06 \u521D\u59CB\u5316\u5217\u8868.cpp",
-              "RelativeDocumentMoniker": "06 \u521D\u59CB\u5316\u5217\u8868.cpp",
-              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\06 \u521D\u59CB\u5316\u5217\u8868.cpp",
-              "RelativeToolTip": "06 \u521D\u59CB\u5316\u5217\u8868.cpp",
-              "ViewState": "AgIAABYAAAAAAAAAAAAYwDAAAAADAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "08 \u9759\u6001\u6210\u5458-\u9759\u6001\u6210\u5458\u53D8\u91CF.cpp",
+              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\08 \u9759\u6001\u6210\u5458-\u9759\u6001\u6210\u5458\u53D8\u91CF.cpp",
+              "RelativeDocumentMoniker": "08 \u9759\u6001\u6210\u5458-\u9759\u6001\u6210\u5458\u53D8\u91CF.cpp",
+              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\08 \u9759\u6001\u6210\u5458-\u9759\u6001\u6210\u5458\u53D8\u91CF.cpp",
+              "RelativeToolTip": "08 \u9759\u6001\u6210\u5458-\u9759\u6001\u6210\u5458\u53D8\u91CF.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-01T07:48:24.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "05 \u6DF1\u62F7\u8D1D\u4E0E\u6D45\u62F7\u8D1D.cpp",
-              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\05 \u6DF1\u62F7\u8D1D\u4E0E\u6D45\u62F7\u8D1D.cpp",
-              "RelativeDocumentMoniker": "05 \u6DF1\u62F7\u8D1D\u4E0E\u6D45\u62F7\u8D1D.cpp",
-              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\05 \u6DF1\u62F7\u8D1D\u4E0E\u6D45\u62F7\u8D1D.cpp",
-              "RelativeToolTip": "05 \u6DF1\u62F7\u8D1D\u4E0E\u6D45\u62F7\u8D1D.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwDsAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-01T07:29:04.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "04 \u6784\u9020\u51FD\u6570\u7684\u8C03\u7528\u89C4\u5219.cpp",
-              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\04 \u6784\u9020\u51FD\u6570\u7684\u8C03\u7528\u89C4\u5219.cpp",
-              "RelativeDocumentMoniker": "04 \u6784\u9020\u51FD\u6570\u7684\u8C03\u7528\u89C4\u5219.cpp",
-              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\04 \u6784\u9020\u51FD\u6570\u7684\u8C03\u7528\u89C4\u5219.cpp",
-              "RelativeToolTip": "04 \u6784\u9020\u51FD\u6570\u7684\u8C03\u7528\u89C4\u5219.cpp",
-              "ViewState": "AgIAACUAAAAAAAAAAAAYwD8AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-01T07:11:22.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "03 \u62F7\u8D1D\u6784\u9020\u51FD\u6570\u8C03\u7528\u65F6\u673A.cpp",
-              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\03 \u62F7\u8D1D\u6784\u9020\u51FD\u6570\u8C03\u7528\u65F6\u673A.cpp",
-              "RelativeDocumentMoniker": "03 \u62F7\u8D1D\u6784\u9020\u51FD\u6570\u8C03\u7528\u65F6\u673A.cpp",
-              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\03 \u62F7\u8D1D\u6784\u9020\u51FD\u6570\u8C03\u7528\u65F6\u673A.cpp",
-              "RelativeToolTip": "03 \u62F7\u8D1D\u6784\u9020\u51FD\u6570\u8C03\u7528\u65F6\u673A.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-01T06:55:13.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "02 \u6784\u9020\u51FD\u6570\u7684\u5206\u7C7B\u4EE5\u53CA\u8C03\u7528.cpp",
-              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\02 \u6784\u9020\u51FD\u6570\u7684\u5206\u7C7B\u4EE5\u53CA\u8C03\u7528.cpp",
-              "RelativeDocumentMoniker": "02 \u6784\u9020\u51FD\u6570\u7684\u5206\u7C7B\u4EE5\u53CA\u8C03\u7528.cpp",
-              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521D\u59CB\u5316\u548C\u6E05\u7406\\02 \u6784\u9020\u51FD\u6570\u7684\u5206\u7C7B\u4EE5\u53CA\u8C03\u7528.cpp",
-              "RelativeToolTip": "02 \u6784\u9020\u51FD\u6570\u7684\u5206\u7C7B\u4EE5\u53CA\u8C03\u7528.cpp",
-              "ViewState": "AgIAADUAAAAAAAAAAAAYwE8AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-01T06:20:53.73Z",
+              "WhenOpened": "2024-12-05T12:22:06.113Z",
               "EditorCaption": ""
             }
           ]

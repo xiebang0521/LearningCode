@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\C\u002B\u002B\u5BF9\u8C61\u6A21\u578B\u548Cthis\u6307\u9488\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D05FB5E6-A4F1-4F49-BAF3-DFBBAB2000B5}|C\u002B\u002B\u5BF9\u8C61\u6A21\u578B\u548Cthis\u6307\u9488.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\C\u002B\u002B\u5BF9\u8C61\u6A21\u578B\u548Cthis\u6307\u9488\\03 \u7A7A\u6307\u9488\u8C03\u7528\u6210\u5458\u51FD\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D05FB5E6-A4F1-4F49-BAF3-DFBBAB2000B5}|C\u002B\u002B\u5BF9\u8C61\u6A21\u578B\u548Cthis\u6307\u9488.vcxproj|solutionrelative:03 \u7A7A\u6307\u9488\u8C03\u7528\u6210\u5458\u51FD\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05FB5E6-A4F1-4F49-BAF3-DFBBAB2000B5}|C\u002B\u002B\u5BF9\u8C61\u6A21\u578B\u548Cthis\u6307\u9488.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\C\u002B\u002B\u5BF9\u8C61\u6A21\u578B\u548Cthis\u6307\u9488\\02 this\u6307\u9488\u7684\u4F7F\u7528.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D05FB5E6-A4F1-4F49-BAF3-DFBBAB2000B5}|C\u002B\u002B\u5BF9\u8C61\u6A21\u578B\u548Cthis\u6307\u9488.vcxproj|solutionrelative:02 this\u6307\u9488\u7684\u4F7F\u7528.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "03 \u7A7A\u6307\u9488\u8C03\u7528\u6210\u5458\u51FD\u6570.cpp",
+              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\C\u002B\u002B\u5BF9\u8C61\u6A21\u578B\u548Cthis\u6307\u9488\\03 \u7A7A\u6307\u9488\u8C03\u7528\u6210\u5458\u51FD\u6570.cpp",
+              "RelativeDocumentMoniker": "03 \u7A7A\u6307\u9488\u8C03\u7528\u6210\u5458\u51FD\u6570.cpp",
+              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\C\u002B\u002B\u5BF9\u8C61\u6A21\u578B\u548Cthis\u6307\u9488\\03 \u7A7A\u6307\u9488\u8C03\u7528\u6210\u5458\u51FD\u6570.cpp*",
+              "RelativeToolTip": "03 \u7A7A\u6307\u9488\u8C03\u7528\u6210\u5458\u51FD\u6570.cpp*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T13:13:36.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "02 this\u6307\u9488\u7684\u4F7F\u7528.cpp",
+              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\C\u002B\u002B\u5BF9\u8C61\u6A21\u578B\u548Cthis\u6307\u9488\\02 this\u6307\u9488\u7684\u4F7F\u7528.cpp",
+              "RelativeDocumentMoniker": "02 this\u6307\u9488\u7684\u4F7F\u7528.cpp",
+              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\C\u002B\u002B\u5BF9\u8C61\u6A21\u578B\u548Cthis\u6307\u9488\\02 this\u6307\u9488\u7684\u4F7F\u7528.cpp",
+              "RelativeToolTip": "02 this\u6307\u9488\u7684\u4F7F\u7528.cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAA7wBsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T12:57:08.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
