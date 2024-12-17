@@ -129,6 +129,10 @@
   <ItemGroup>
     <ClCompile Include="01 多态的基本概念.cpp" />
     <ClCompile Include="02 多态案例-计算器实现.cpp" />
+    <ClCompile Include="03 纯虚函数和抽象类.cpp" />
+    <ClCompile Include="04 多态案例二-制作饮品.cpp" />
+    <ClCompile Include="05 虚析构和纯虚构.cpp" />
+    <ClCompile Include="06 多态案例三-电脑组装.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
