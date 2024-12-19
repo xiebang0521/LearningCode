@@ -1,5 +1,10 @@
 #include <iostream>
 #include "WorkManage.h"
+#include "worker.h"
+#include "employee.h"
+#include "manager.h"
+#include "Boss.h"
+
 using namespace std;
 
 // 创建管理类
@@ -7,9 +12,56 @@ using namespace std;
 // 2.对职工增删查改的操作
 // 3.与文件的读写交互
 
+// 多态的测试
+//void test01()
+//{
+//	Worker* worker = NULL;
+//	worker = new Employee(1, "张三", 1);
+//	worker->showInfo();
+//	delete worker;
+//	worker = new Manager(2, "李四", 2);
+//	worker->showInfo();
+//	delete worker;
+//	worker = new Boss(3, "王五", 3);
+//	worker->showInfo();
+//	delete worker;
+//}
 int main()
 {
-	WorkerManager wm;
-	wm.Show_Menu();
+	//test01();
+
+	/*WorkerManager wm;
+	int choice = 0;
+	while (true)
+	{
+		wm.Show_Menu();
+		cout << "请输入您的选择>> " << endl;
+		cin >> choice;
+
+		switch (choice)
+		{
+		case 0:
+			wm.exitSystem();
+			break;
+		case 1:
+			break;
+		case 2:
+			break;
+		case 3:
+			break;
+		case 4:
+			break;
+		case 5:
+			break;
+		case 6:
+			break;
+		case 7:
+			break;
+		default:
+			system("cls");
+			break;
+		}
+	}*/
+
 	return 0;
 }

@@ -20,6 +20,14 @@ void WorkerManager::Show_Menu()
 	cout << "********************************************" << endl;
 	cout << endl;
 }
+
+void WorkerManager::exitSystem()
+{
+	cout << "欢迎下次系统" << endl;
+	system("pause");
+	exit(0);
+}
+
 WorkerManager::~WorkerManager()
 {
 

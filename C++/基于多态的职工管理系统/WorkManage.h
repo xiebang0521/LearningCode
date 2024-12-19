@@ -10,6 +10,8 @@ public:
 
 	void Show_Menu();
 
+	void exitSystem();
+
 	~WorkerManager();
 };
 

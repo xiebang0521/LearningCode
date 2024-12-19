@@ -127,10 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Boss.cpp" />
+    <ClCompile Include="employee.cpp" />
+    <ClCompile Include="manager.cpp" />
     <ClCompile Include="WorkManage.cpp" />
     <ClCompile Include="职工管理系统.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Boss.h" />
+    <ClInclude Include="employee.h" />
+    <ClInclude Include="manager.h" />
+    <ClInclude Include="worker.h" />
     <ClInclude Include="WorkManage.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
