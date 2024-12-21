@@ -30,7 +30,7 @@ int main()
 {
 	//test01();
 
-	/*WorkerManager wm;
+	WorkerManager wm;
 	int choice = 0;
 	while (true)
 	{
@@ -44,24 +44,31 @@ int main()
 			wm.exitSystem();
 			break;
 		case 1:
+			wm.Add_Emp();
 			break;
 		case 2:
+			wm.ShowInfo();
 			break;
 		case 3:
+			wm.Del_Emp();
 			break;
 		case 4:
+			wm.Mod_Emp();
 			break;
 		case 5:
+			wm.Find_Emp();
 			break;
 		case 6:
+			wm.Sort_Emp();
 			break;
 		case 7:
+			wm.Clean_File();
 			break;
 		default:
 			system("cls");
 			break;
 		}
-	}*/
+	}
 
 	return 0;
 }
