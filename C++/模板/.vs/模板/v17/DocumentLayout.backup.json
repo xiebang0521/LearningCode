@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u6A21\u677F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{553EF53B-6687-44BF-AFD0-B93C1663E45F}|\u6A21\u677F.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u6A21\u677F\\06 \u6A21\u677F\u7684\u5C40\u9650\u6027.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553EF53B-6687-44BF-AFD0-B93C1663E45F}|\u6A21\u677F.vcxproj|solutionrelative:06 \u6A21\u677F\u7684\u5C40\u9650\u6027.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553EF53B-6687-44BF-AFD0-B93C1663E45F}|\u6A21\u677F.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u6A21\u677F\\05 \u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u8C03\u7528\u89C4\u5219.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553EF53B-6687-44BF-AFD0-B93C1663E45F}|\u6A21\u677F.vcxproj|solutionrelative:05 \u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u8C03\u7528\u89C4\u5219.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553EF53B-6687-44BF-AFD0-B93C1663E45F}|\u6A21\u677F.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u6A21\u677F\\04 \u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u533A\u522B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553EF53B-6687-44BF-AFD0-B93C1663E45F}|\u6A21\u677F.vcxproj|solutionrelative:04 \u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u533A\u522B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553EF53B-6687-44BF-AFD0-B93C1663E45F}|\u6A21\u677F.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u6A21\u677F\\03 \u51FD\u6570\u6A21\u677F\u7684\u6848\u4F8B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553EF53B-6687-44BF-AFD0-B93C1663E45F}|\u6A21\u677F.vcxproj|solutionrelative:03 \u51FD\u6570\u6A21\u677F\u7684\u6848\u4F8B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553EF53B-6687-44BF-AFD0-B93C1663E45F}|\u6A21\u677F.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u6A21\u677F\\02 \u51FD\u6570\u6A21\u677F\u6CE8\u610F\u4E8B\u9879.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553EF53B-6687-44BF-AFD0-B93C1663E45F}|\u6A21\u677F.vcxproj|solutionrelative:02 \u51FD\u6570\u6A21\u677F\u6CE8\u610F\u4E8B\u9879.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553EF53B-6687-44BF-AFD0-B93C1663E45F}|\u6A21\u677F.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u6A21\u677F\\01 \u51FD\u6570\u6A21\u677F\u8BED\u6CD5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553EF53B-6687-44BF-AFD0-B93C1663E45F}|\u6A21\u677F.vcxproj|solutionrelative:01 \u51FD\u6570\u6A21\u677F\u8BED\u6CD5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553EF53B-6687-44BF-AFD0-B93C1663E45F}|\u6A21\u677F.vcxproj|G:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.42.34433\\INCLUDE\\__MSVC_FORMAT_UCD_TABLES.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "06 \u6A21\u677F\u7684\u5C40\u9650\u6027.cpp",
+              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u6A21\u677F\\06 \u6A21\u677F\u7684\u5C40\u9650\u6027.cpp",
+              "RelativeDocumentMoniker": "06 \u6A21\u677F\u7684\u5C40\u9650\u6027.cpp",
+              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u6A21\u677F\\06 \u6A21\u677F\u7684\u5C40\u9650\u6027.cpp",
+              "RelativeToolTip": "06 \u6A21\u677F\u7684\u5C40\u9650\u6027.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T14:15:46.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "05 \u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u8C03\u7528\u89C4\u5219.cpp",
+              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u6A21\u677F\\05 \u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u8C03\u7528\u89C4\u5219.cpp",
+              "RelativeDocumentMoniker": "05 \u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u8C03\u7528\u89C4\u5219.cpp",
+              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u6A21\u677F\\05 \u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u8C03\u7528\u89C4\u5219.cpp",
+              "RelativeToolTip": "05 \u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u8C03\u7528\u89C4\u5219.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAA0wCoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T14:05:40.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "04 \u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u533A\u522B.cpp",
+              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u6A21\u677F\\04 \u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u533A\u522B.cpp",
+              "RelativeDocumentMoniker": "04 \u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u533A\u522B.cpp",
+              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u6A21\u677F\\04 \u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u533A\u522B.cpp",
+              "RelativeToolTip": "04 \u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u533A\u522B.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T13:56:05.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "03 \u51FD\u6570\u6A21\u677F\u7684\u6848\u4F8B.cpp",
+              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u6A21\u677F\\03 \u51FD\u6570\u6A21\u677F\u7684\u6848\u4F8B.cpp",
+              "RelativeDocumentMoniker": "03 \u51FD\u6570\u6A21\u677F\u7684\u6848\u4F8B.cpp",
+              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u6A21\u677F\\03 \u51FD\u6570\u6A21\u677F\u7684\u6848\u4F8B.cpp",
+              "RelativeToolTip": "03 \u51FD\u6570\u6A21\u677F\u7684\u6848\u4F8B.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T13:41:21.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "02 \u51FD\u6570\u6A21\u677F\u6CE8\u610F\u4E8B\u9879.cpp",
+              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u6A21\u677F\\02 \u51FD\u6570\u6A21\u677F\u6CE8\u610F\u4E8B\u9879.cpp",
+              "RelativeDocumentMoniker": "02 \u51FD\u6570\u6A21\u677F\u6CE8\u610F\u4E8B\u9879.cpp",
+              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u6A21\u677F\\02 \u51FD\u6570\u6A21\u677F\u6CE8\u610F\u4E8B\u9879.cpp",
+              "RelativeToolTip": "02 \u51FD\u6570\u6A21\u677F\u6CE8\u610F\u4E8B\u9879.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T13:32:42.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "__msvc_format_ucd_tables.hpp",
+              "DocumentMoniker": "G:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\__msvc_format_ucd_tables.hpp",
+              "ToolTip": "G:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\__msvc_format_ucd_tables.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T13:30:38.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "01 \u51FD\u6570\u6A21\u677F\u8BED\u6CD5.cpp",
+              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u6A21\u677F\\01 \u51FD\u6570\u6A21\u677F\u8BED\u6CD5.cpp",
+              "RelativeDocumentMoniker": "01 \u51FD\u6570\u6A21\u677F\u8BED\u6CD5.cpp",
+              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\\u6A21\u677F\\01 \u51FD\u6570\u6A21\u677F\u8BED\u6CD5.cpp",
+              "RelativeToolTip": "01 \u51FD\u6570\u6A21\u677F\u8BED\u6CD5.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAA0wEIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T13:21:03.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
