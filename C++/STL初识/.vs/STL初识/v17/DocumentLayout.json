@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\STL\u521D\u8BC6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37A085B5-4EA2-4B44-BA67-225AC59649E9}|STL\u521D\u8BC6.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\STL\u521D\u8BC6\\03 STL\u521D\u8BC6-\u5BB9\u5668\u5D4C\u5957\u5BB9\u5668.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37A085B5-4EA2-4B44-BA67-225AC59649E9}|STL\u521D\u8BC6.vcxproj|solutionrelative:03 STL\u521D\u8BC6-\u5BB9\u5668\u5D4C\u5957\u5BB9\u5668.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A085B5-4EA2-4B44-BA67-225AC59649E9}|STL\u521D\u8BC6.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\STL\u521D\u8BC6\\01 STL\u521D\u8BC6-vector\u5B58\u653E\u5185\u7F6E\u6570\u636E\u7C7B\u578B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37A085B5-4EA2-4B44-BA67-225AC59649E9}|STL\u521D\u8BC6.vcxproj|solutionrelative:01 STL\u521D\u8BC6-vector\u5B58\u653E\u5185\u7F6E\u6570\u636E\u7C7B\u578B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A085B5-4EA2-4B44-BA67-225AC59649E9}|STL\u521D\u8BC6.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\STL\u521D\u8BC6\\02 vector\u5B58\u653E\u81EA\u5B9A\u4E49\u6570\u636E\u7C7B\u578B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37A085B5-4EA2-4B44-BA67-225AC59649E9}|STL\u521D\u8BC6.vcxproj|solutionrelative:02 vector\u5B58\u653E\u81EA\u5B9A\u4E49\u6570\u636E\u7C7B\u578B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "03 STL\u521D\u8BC6-\u5BB9\u5668\u5D4C\u5957\u5BB9\u5668.cpp",
+              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\STL\u521D\u8BC6\\03 STL\u521D\u8BC6-\u5BB9\u5668\u5D4C\u5957\u5BB9\u5668.cpp",
+              "RelativeDocumentMoniker": "03 STL\u521D\u8BC6-\u5BB9\u5668\u5D4C\u5957\u5BB9\u5668.cpp",
+              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\STL\u521D\u8BC6\\03 STL\u521D\u8BC6-\u5BB9\u5668\u5D4C\u5957\u5BB9\u5668.cpp",
+              "RelativeToolTip": "03 STL\u521D\u8BC6-\u5BB9\u5668\u5D4C\u5957\u5BB9\u5668.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T14:02:14.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "02 vector\u5B58\u653E\u81EA\u5B9A\u4E49\u6570\u636E\u7C7B\u578B.cpp",
+              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\STL\u521D\u8BC6\\02 vector\u5B58\u653E\u81EA\u5B9A\u4E49\u6570\u636E\u7C7B\u578B.cpp",
+              "RelativeDocumentMoniker": "02 vector\u5B58\u653E\u81EA\u5B9A\u4E49\u6570\u636E\u7C7B\u578B.cpp",
+              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\STL\u521D\u8BC6\\02 vector\u5B58\u653E\u81EA\u5B9A\u4E49\u6570\u636E\u7C7B\u578B.cpp",
+              "RelativeToolTip": "02 vector\u5B58\u653E\u81EA\u5B9A\u4E49\u6570\u636E\u7C7B\u578B.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwEEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T13:47:36.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "01 STL\u521D\u8BC6-vector\u5B58\u653E\u5185\u7F6E\u6570\u636E\u7C7B\u578B.cpp",
+              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\STL\u521D\u8BC6\\01 STL\u521D\u8BC6-vector\u5B58\u653E\u5185\u7F6E\u6570\u636E\u7C7B\u578B.cpp",
+              "RelativeDocumentMoniker": "01 STL\u521D\u8BC6-vector\u5B58\u653E\u5185\u7F6E\u6570\u636E\u7C7B\u578B.cpp",
+              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\STL\u521D\u8BC6\\01 STL\u521D\u8BC6-vector\u5B58\u653E\u5185\u7F6E\u6570\u636E\u7C7B\u578B.cpp",
+              "RelativeToolTip": "01 STL\u521D\u8BC6-vector\u5B58\u653E\u5185\u7F6E\u6570\u636E\u7C7B\u578B.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T13:35:15.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
