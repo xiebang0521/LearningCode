@@ -27,5 +27,34 @@
     <ClCompile Include="04 类模板对象做函数的参数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="05 类模板与继承.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06 类模板成员函数类外实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07 类模板分文件编写.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Person.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08 类模板与友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09 类模板案例-通用的数组类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Person.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Person.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyArray.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
