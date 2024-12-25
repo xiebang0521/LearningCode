@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\string\u5BB9\u5668\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E2E360A5-1ECB-49DC-BFD9-3302F4636912}|string\u5BB9\u5668.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\string\u5BB9\u5668\\05 string\u5BB9\u5668_\u5B57\u7B26\u4E32\u6BD4\u8F83.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2E360A5-1ECB-49DC-BFD9-3302F4636912}|string\u5BB9\u5668.vcxproj|solutionrelative:05 string\u5BB9\u5668_\u5B57\u7B26\u4E32\u6BD4\u8F83.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E360A5-1ECB-49DC-BFD9-3302F4636912}|string\u5BB9\u5668.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\string\u5BB9\u5668\\04 string\u5BB9\u5668_\u67E5\u627E\u548C\u66FF\u6362.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2E360A5-1ECB-49DC-BFD9-3302F4636912}|string\u5BB9\u5668.vcxproj|solutionrelative:04 string\u5BB9\u5668_\u67E5\u627E\u548C\u66FF\u6362.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E360A5-1ECB-49DC-BFD9-3302F4636912}|string\u5BB9\u5668.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\string\u5BB9\u5668\\03 string\u5BB9\u5668_\u5B57\u7B26\u4E32\u62FC\u63A5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2E360A5-1ECB-49DC-BFD9-3302F4636912}|string\u5BB9\u5668.vcxproj|solutionrelative:03 string\u5BB9\u5668_\u5B57\u7B26\u4E32\u62FC\u63A5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2E360A5-1ECB-49DC-BFD9-3302F4636912}|string\u5BB9\u5668.vcxproj|E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\string\u5BB9\u5668\\02 string\u7684\u8D4B\u503C\u64CD\u4F5C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E2E360A5-1ECB-49DC-BFD9-3302F4636912}|string\u5BB9\u5668.vcxproj|solutionrelative:02 string\u7684\u8D4B\u503C\u64CD\u4F5C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,19 +35,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "05 string\u5BB9\u5668_\u5B57\u7B26\u4E32\u6BD4\u8F83.cpp",
+              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\string\u5BB9\u5668\\05 string\u5BB9\u5668_\u5B57\u7B26\u4E32\u6BD4\u8F83.cpp",
+              "RelativeDocumentMoniker": "05 string\u5BB9\u5668_\u5B57\u7B26\u4E32\u6BD4\u8F83.cpp",
+              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\string\u5BB9\u5668\\05 string\u5BB9\u5668_\u5B57\u7B26\u4E32\u6BD4\u8F83.cpp",
+              "RelativeToolTip": "05 string\u5BB9\u5668_\u5B57\u7B26\u4E32\u6BD4\u8F83.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-25T12:33:45.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "04 string\u5BB9\u5668_\u67E5\u627E\u548C\u66FF\u6362.cpp",
+              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\string\u5BB9\u5668\\04 string\u5BB9\u5668_\u67E5\u627E\u548C\u66FF\u6362.cpp",
+              "RelativeDocumentMoniker": "04 string\u5BB9\u5668_\u67E5\u627E\u548C\u66FF\u6362.cpp",
+              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\string\u5BB9\u5668\\04 string\u5BB9\u5668_\u67E5\u627E\u548C\u66FF\u6362.cpp",
+              "RelativeToolTip": "04 string\u5BB9\u5668_\u67E5\u627E\u548C\u66FF\u6362.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-25T12:17:40.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "03 string\u5BB9\u5668_\u5B57\u7B26\u4E32\u62FC\u63A5.cpp",
+              "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\string\u5BB9\u5668\\03 string\u5BB9\u5668_\u5B57\u7B26\u4E32\u62FC\u63A5.cpp",
+              "RelativeDocumentMoniker": "03 string\u5BB9\u5668_\u5B57\u7B26\u4E32\u62FC\u63A5.cpp",
+              "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\string\u5BB9\u5668\\03 string\u5BB9\u5668_\u5B57\u7B26\u4E32\u62FC\u63A5.cpp",
+              "RelativeToolTip": "03 string\u5BB9\u5668_\u5B57\u7B26\u4E32\u62FC\u63A5.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-25T12:02:49.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "02 string\u7684\u8D4B\u503C\u64CD\u4F5C.cpp",
               "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\string\u5BB9\u5668\\02 string\u7684\u8D4B\u503C\u64CD\u4F5C.cpp",
               "RelativeDocumentMoniker": "02 string\u7684\u8D4B\u503C\u64CD\u4F5C.cpp",
               "ToolTip": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\string\u5BB9\u5668\\02 string\u7684\u8D4B\u503C\u64CD\u4F5C.cpp",
               "RelativeToolTip": "02 string\u7684\u8D4B\u503C\u64CD\u4F5C.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-24T14:19:03.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "01 string\u5BB9\u5668_\u6784\u9020\u51FD\u6570.cpp",
               "DocumentMoniker": "E:\\XieChaoBang_Work\\LearnFile\\LearningCode\\C\u002B\u002B\\string\u5BB9\u5668\\01 string\u5BB9\u5668_\u6784\u9020\u51FD\u6570.cpp",
               "RelativeDocumentMoniker": "01 string\u5BB9\u5668_\u6784\u9020\u51FD\u6570.cpp",
